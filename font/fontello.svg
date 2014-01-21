@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail" unicode="&#xe801;" d="m929 11v428q-18-20-39-37q-149-114-238-188q-28-24-46-38t-48-27t-57-13h-2q-26 0-57 13t-48 27t-46 38q-88 74-238 188q-21 17-39 37v-428q0-8 6-13t12-5h822q7 0 12 5t6 13z m0 586v14t-1 7t-1 7t-3 5t-5 4t-8 2h-822q-7 0-12-6t-6-12q0-94 82-159q108-85 224-177q4-2 20-16t25-21t25-18t28-15t24-5h2q11 0 24 5t28 15t25 18t25 21t20 16q116 92 224 177q30 24 56 65t26 73z m71 21v-607q0-37-26-63t-63-27h-822q-36 0-63 27t-26 63v607q0 37 26 63t63 26h822q37 0 63-26t26-63z" horiz-adv-x="1000" />
+<glyph glyph-name="github" unicode="&#xe806;" d="m357 171q0-22-7-45t-24-43t-40-19t-41 19t-24 43t-7 45t7 46t24 43t41 19t40-19t24-43t7-46z m357 0q0-22-7-45t-24-43t-40-19t-41 19t-24 43t-7 45t7 46t24 43t41 19t40-19t24-43t7-46z m90 0q0 67-39 114t-104 47q-23 0-109-12q-40-6-88-6t-87 6q-85 12-109 12q-66 0-104-47t-39-114q0-49 18-85t45-58t68-33t78-17t83-4h94q46 0 83 4t78 17t69 33t45 58t18 85z m125 99q0-116-34-185q-22-43-59-74t-79-48t-95-27t-96-12t-93-3q-43 0-79 2t-82 7t-85 17t-77 28t-67 46t-48 64q-35 69-35 185q0 132 76 221q-15 45-15 94q0 65 28 122q61 0 106-22t106-69q82 20 172 20q83 0 156-18q59 46 105 67t105 22q29-57 29-122q0-48-15-93q76-90 76-222z" horiz-adv-x="928.6" />
+<glyph glyph-name="vkontakte" unicode="&#xe800;" d="m532 302q26-16 26-48q0-36-24-50q-14-10-62-10l-52 0l0 116l58 0q38 0 54-8z m-22 100q-14-10-56-10l-34 0l0 102l26 0q50 0 60-6q24-14 24-42t-20-44z m282 428q70 0 119-49t49-119l0-622q0-70-49-120t-119-50l-624 0q-70 0-119 50t-49 120l0 622q0 70 49 119t119 49l624 0z m-286-724q84 0 125 42t41 102q0 96-96 116l0 2q68 22 68 102q0 50-35 79t-85 29l-214 0l0-472l196 0z" horiz-adv-x="960" />
+</font>
+</defs>
+</svg>
